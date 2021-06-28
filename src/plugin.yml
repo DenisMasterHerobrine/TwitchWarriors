@@ -1,0 +1,12 @@
+name: TwitchWarriors
+version: 0.1.10.3
+author: DenisMasterHerobrine
+main: dev.denismasterherobrine.twitchwarriors.TwitchWarriorsCore
+api-version: 1.15
+commands:
+  tw_enable:
+    description: This command enables TwitchWarriors plugin.
+    usage: /tw_enable
+  tw_disable:
+    description: This command disables TwitchWarriors plugin.
+    usage: /tw_disable
