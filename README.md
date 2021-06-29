@@ -1,2 +1,5 @@
 # TwitchWarriors
-Minecraft minigame with Twitch Channel Points integration
+Minecraft plugin, which includes a PVP based minigame with Twitch Channel Points integration. Made for 1.15+. 
+
+License: MIT.
+
